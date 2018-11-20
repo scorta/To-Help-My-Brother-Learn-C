@@ -1,3 +1,4 @@
+//Quicksort, using the last element as the pivot
 #include <iostream>
 #include <vector>
 #include <random>
